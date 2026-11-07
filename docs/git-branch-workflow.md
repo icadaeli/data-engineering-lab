@@ -1,6 +1,6 @@
 # Git Branch Workflow Practice
 
-This document records my practice with Git branches.
+This document explains my Git branch learning workflow.
 
 ## Workflow
 
