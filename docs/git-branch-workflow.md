@@ -1,6 +1,6 @@
 # Git Branch Workflow Practice
 
-This document records my completed practice with Git branches.
+This document records my completed Git branch and merge-conflict practice.
 
 ## Workflow
 
