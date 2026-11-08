@@ -9,3 +9,7 @@ This document records my completed Git branch and merge-conflict practice.
 3. Make and review a change.
 4. Stage and commit the change.
 5. Merge the branch after verification.
+
+## Remote Pull Practice
+
+This section was added on GitHub to practise pulling a remote commit.
